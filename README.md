@@ -35,6 +35,8 @@ Become faster with the Git CLI.
 | gitru.  | `git remote update`                                         |
 | gitfa.  | `git fetch --all`                                           |
 
+<br>
+
 ### Push
 
 | Trigger | Command                        |
@@ -49,6 +51,8 @@ Become faster with the Git CLI.
 | gitph1. | `git push origin hml`          |
 | gitph2. | `git push origin homolog`      |
 | gitph3. | `git push origin homologation` |
+
+<br>
 
 ### Pull
 
@@ -115,13 +119,13 @@ Become faster with the Git CLI.
 
 ### Log
 
-| Trigger | Command                          |
-| ------- | -------------------------------- | --------------------------------- |
-| gitl.   | `git log`                        |
-| gitlp.  | `git log --pretty=oneline`       |
-| gitlo.  | `git log --oneline`              |
-| gitlgo. | `git log --graph --oneline`      |
-| gitlpf. | `git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short` |
+| Trigger | Command                                                             |
+| ------- | ------------------------------------------------------------------- |
+| gitl.   | `git log`                                                           |
+| gitlp.  | `git log --pretty=oneline`                                          |
+| gitlo.  | `git log --oneline`                                                 |
+| gitlgo. | `git log --graph --oneline`                                         |
+| gitlpf. | `git log --pretty=format:"%h %ad  %s%d [%an]" --graph --date=short` |
 
 <br>
 
